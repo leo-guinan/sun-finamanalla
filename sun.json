@@ -1,0 +1,347 @@
+{
+  "id": "sun-finamanalla",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@finamanalla Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_023f7652eb41",
+    "display_name": "finamanalla",
+    "user_id": "@finamanalla",
+    "description": "Community Archive-derived proof-of-search sun for @finamanalla.",
+    "document_count": 133,
+    "word_count": 1098,
+    "active_days": 77,
+    "emissions": [
+      "Yes",
+      "Realtrumpnewsx",
+      "Two",
+      "Elonmuskode",
+      "Iamnot_Elon",
+      "Baghdad"
+    ],
+    "generated_at": "2026-06-27T16:01:51.140775+00:00",
+    "color": "#f59e0b",
+    "mass": 7.002
+  },
+  "planets": [
+    {
+      "id": "planet_09684e208755",
+      "name": "Yes",
+      "summary": "Archive cluster around yes: 114 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yes",
+        "threadreaderapp",
+        "elonmuskode",
+        "water",
+        "morning"
+      ],
+      "artifacts": [
+        {
+          "id": "art_601ba89a0c80",
+          "title": "Yes receipt from 2024-01-05",
+          "excerpt": "@cremieuxrecueil As in, fully intact? Fremen are Zensunni, Tleilax are Zensufi, and Orange Catholic Bible still common",
+          "source_document_id": "1743371918843977807",
+          "timestamp": "2024-01-05T20:40:30+00:00",
+          "url": "https://x.com/finamanalla/status/1743371918843977807",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yes, threadreaderapp, elonmuskode, water."
+        },
+        {
+          "id": "art_38947f3a42bf",
+          "title": "Yes receipt from 2014-07-19",
+          "excerpt": "http://t.co/h0bWbk6fPK",
+          "source_document_id": "490544751481872384",
+          "timestamp": "2014-07-19T17:12:37+00:00",
+          "url": "https://x.com/finamanalla/status/490544751481872384",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yes, threadreaderapp, elonmuskode, water."
+        },
+        {
+          "id": "art_216ad90d3a42",
+          "title": "Yes receipt from 2024-08-01",
+          "excerpt": "@CoachHackGO Defense",
+          "source_document_id": "1819149313454625026",
+          "timestamp": "2024-08-01T23:12:49+00:00",
+          "url": "https://x.com/finamanalla/status/1819149313454625026",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yes, threadreaderapp, elonmuskode, water."
+        },
+        {
+          "id": "art_43b1e8384481",
+          "title": "Yes receipt from 2024-11-21",
+          "excerpt": "@PamelaHensley22 Yes",
+          "source_document_id": "1859394855174275354",
+          "timestamp": "2024-11-21T00:34:14+00:00",
+          "url": "https://x.com/finamanalla/status/1859394855174275354",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yes, threadreaderapp, elonmuskode, water."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e339c5864434",
+      "proof_score": 0.824,
+      "mass": 20.25,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_84dde1fe513c",
+      "name": "Realtrumpnewsx",
+      "summary": "Archive cluster around realtrumpnewsx: 4 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "realtrumpnewsx"
+      ],
+      "artifacts": [
+        {
+          "id": "art_7731e1bf6286",
+          "title": "Realtrumpnewsx receipt from 2024-11-08",
+          "excerpt": "@realTrumpNewsX No",
+          "source_document_id": "1854945749391626610",
+          "timestamp": "2024-11-08T17:55:04+00:00",
+          "url": "https://x.com/finamanalla/status/1854945749391626610",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: realtrumpnewsx."
+        },
+        {
+          "id": "art_e7fd04d9059f",
+          "title": "Realtrumpnewsx receipt from 2024-11-09",
+          "excerpt": "@realTrumpNewsX No",
+          "source_document_id": "1855185203230073212",
+          "timestamp": "2024-11-09T09:46:34+00:00",
+          "url": "https://x.com/finamanalla/status/1855185203230073212",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: realtrumpnewsx."
+        },
+        {
+          "id": "art_1c9d46ab72f3",
+          "title": "Realtrumpnewsx receipt from 2024-11-08",
+          "excerpt": "@realTrumpNewsX A",
+          "source_document_id": "1854718677431484617",
+          "timestamp": "2024-11-08T02:52:46+00:00",
+          "url": "https://x.com/finamanalla/status/1854718677431484617",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: realtrumpnewsx."
+        },
+        {
+          "id": "art_7554fdd09508",
+          "title": "Realtrumpnewsx receipt from 2024-11-08",
+          "excerpt": "@realTrumpNewsX B",
+          "source_document_id": "1854858471813816739",
+          "timestamp": "2024-11-08T12:08:15+00:00",
+          "url": "https://x.com/finamanalla/status/1854858471813816739",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: realtrumpnewsx."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_38472cb48de8",
+      "proof_score": 0.511,
+      "mass": 6.592,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_903d091aa68f",
+      "name": "Two",
+      "summary": "Archive cluster around two: 5 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "two",
+        "shots",
+        "fired",
+        "iraqi",
+        "look"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3383bd9ac6dc",
+          "title": "Two receipt from 2007-05-03",
+          "excerpt": "two birds, playfighting\r\non the roof of a building\r\n\r\nhelicopters in \r\nthe distance, seem to float, with\r\nout effort, on the viscous morning",
+          "source_document_id": "48127742",
+          "timestamp": "2007-05-03T06:04:57+00:00",
+          "url": "https://x.com/finamanalla/status/48127742",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: two, shots, fired, iraqi."
+        },
+        {
+          "id": "art_3bc65a25a11d",
+          "title": "Two receipt from 2007-05-04",
+          "excerpt": "the two shots fired yesterday? two Iraqi policeman, gone. My boss and I look for a place to drink a beer and look out at the city. We wonder",
+          "source_document_id": "49922872",
+          "timestamp": "2007-05-04T16:25:58+00:00",
+          "url": "https://x.com/finamanalla/status/49922872",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: two, shots, fired, iraqi."
+        },
+        {
+          "id": "art_3e749f9b96a4",
+          "title": "Two receipt from 2009-04-27",
+          "excerpt": "two Christian families attacked last night in south Kirkuk. Three women dead in one home, one brother dead another hospitalized in the other",
+          "source_document_id": "1631213976",
+          "timestamp": "2009-04-27T18:26:46+00:00",
+          "url": "https://x.com/finamanalla/status/1631213976",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: two, shots, fired, iraqi."
+        },
+        {
+          "id": "art_a4c659a6a516",
+          "title": "Two receipt from 2007-05-06",
+          "excerpt": "black cats no good, the guard informed me. This one a recent mother of four and hasn't eaten in two days. I give her tuna bought at the PX",
+          "source_document_id": "52169352",
+          "timestamp": "2007-05-06T17:17:24+00:00",
+          "url": "https://x.com/finamanalla/status/52169352",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: two, shots, fired, iraqi."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1bdc4f16e037",
+      "proof_score": 0.529,
+      "mass": 14.461,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_c01d34917145",
+      "name": "Elonmuskode",
+      "summary": "Archive cluster around elonmuskode: 1 posts; 1 quote-backed receipts pinned.",
+      "top_terms": [
+        "elonmuskode"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4c40f0af37c0",
+          "title": "Elonmuskode receipt from 2024-08-22",
+          "excerpt": "@ElonMuskOde A",
+          "source_document_id": "1826708941570802103",
+          "timestamp": "2024-08-22T19:52:04+00:00",
+          "url": "https://x.com/finamanalla/status/1826708941570802103",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: elonmuskode."
+        }
+      ],
+      "artifact_count": 1,
+      "receipt_id": "rcpt_df4f00d95133",
+      "proof_score": 0.419,
+      "mass": 3.296,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_d675bbab9243",
+      "name": "Iamnot_Elon",
+      "summary": "Archive cluster around iamnot_elon: 5 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "iamnot_elon",
+        "worry",
+        "happen",
+        "ending",
+        "catch"
+      ],
+      "artifacts": [
+        {
+          "id": "art_aadf3f267247",
+          "title": "Iamnot_Elon receipt from 2024-11-17",
+          "excerpt": "@iamnot_elon I worry that will happen. Ending catch and release and deporting criminals should be sufficient.",
+          "source_document_id": "1857967160137839024",
+          "timestamp": "2024-11-17T02:01:04+00:00",
+          "url": "https://x.com/finamanalla/status/1857967160137839024",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: iamnot_elon, worry, happen, ending."
+        },
+        {
+          "id": "art_4c614ab673c8",
+          "title": "Iamnot_Elon receipt from 2024-11-19",
+          "excerpt": "@iamnot_elon Keep it",
+          "source_document_id": "1858735766337450368",
+          "timestamp": "2024-11-19T04:55:14+00:00",
+          "url": "https://x.com/finamanalla/status/1858735766337450368",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: iamnot_elon, worry, happen, ending."
+        },
+        {
+          "id": "art_dd802e68f0ad",
+          "title": "Iamnot_Elon receipt from 2024-11-22",
+          "excerpt": "@iamnot_elon No",
+          "source_document_id": "1860058906044825943",
+          "timestamp": "2024-11-22T20:32:56+00:00",
+          "url": "https://x.com/finamanalla/status/1860058906044825943",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: iamnot_elon, worry, happen, ending."
+        },
+        {
+          "id": "art_c93f78c69223",
+          "title": "Iamnot_Elon receipt from 2024-11-08",
+          "excerpt": "@iamnot_elon A",
+          "source_document_id": "1854700952407642487",
+          "timestamp": "2024-11-08T01:42:20+00:00",
+          "url": "https://x.com/finamanalla/status/1854700952407642487",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: iamnot_elon, worry, happen, ending."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2abffe4e9ae8",
+      "proof_score": 0.529,
+      "mass": 9.774,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_a9bdb900f8af",
+      "name": "Baghdad",
+      "summary": "Archive cluster around baghdad: 4 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "baghdad",
+        "iraq",
+        "perhaps",
+        "committee",
+        "meeting"
+      ],
+      "artifacts": [
+        {
+          "id": "art_cc6bb19d2b60",
+          "title": "Baghdad receipt from 2007-05-05",
+          "excerpt": "committee meeting within the Baghdad provincial council. Iraq's democracy is vibrant!! But, more soldiers and diplomats attended than Iraqis",
+          "source_document_id": "51105332",
+          "timestamp": "2007-05-05T17:22:26+00:00",
+          "url": "https://x.com/finamanalla/status/51105332",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: baghdad, iraq, perhaps, committee."
+        },
+        {
+          "id": "art_1f21ea510f57",
+          "title": "Baghdad receipt from 2007-05-30",
+          "excerpt": "Baghdad service center stripped and perhaps forgotten already. Leave midJune to reconstruct my life. Ready for home, but I will miss Iraq so",
+          "source_document_id": "84003222",
+          "timestamp": "2007-05-30T13:30:53+00:00",
+          "url": "https://x.com/finamanalla/status/84003222",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: baghdad, iraq, perhaps, committee."
+        },
+        {
+          "id": "art_a6c18b4cd78c",
+          "title": "Baghdad receipt from 2007-08-27",
+          "excerpt": "I hereby predict that the Kurdish capital of Erbil -- perhaps in partnership with Baghdad and/or Sulaimaniyah -- will host the 2040 Olympics",
+          "source_document_id": "229743332",
+          "timestamp": "2007-08-27T07:30:48+00:00",
+          "url": "https://x.com/finamanalla/status/229743332",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: baghdad, iraq, perhaps, committee."
+        },
+        {
+          "id": "art_56355a524c81",
+          "title": "Baghdad receipt from 2008-10-20",
+          "excerpt": "visiting Baghdad after 17 months. a calmed city. T-walls and bridge columns along route irish painted purple, mauve, yellow, red, and black",
+          "source_document_id": "967885308",
+          "timestamp": "2008-10-20T19:22:02+00:00",
+          "url": "https://x.com/finamanalla/status/967885308",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: baghdad, iraq, perhaps, committee."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ef320b02669c",
+      "proof_score": 0.511,
+      "mass": 13.432,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
